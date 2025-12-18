@@ -46,6 +46,7 @@ GPO settings
 Access allowed and access denial scenarios.
 
 
-
+**Troubleshoot**
+Initially, account lockout didnt trigger because lockout threshold was set to "never" in the default domain policy. After configuring the whole thing worked well along with lockout threshold and duration.
 
 
